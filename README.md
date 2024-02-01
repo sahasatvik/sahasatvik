@@ -1,6 +1,6 @@
 ### Hey there!
 
-I'm Satvik, an undergraduate at IISER Kolkata pursuing a degree in mathematics.
+I'm a fifth year graduate student at IISER Kolkata, writing my Master's Thesis in Mathematics and Statistics.
 I'm still learning basic web design as well as programming with Python, C, and Java.
 I'm also an amateur chess player, speedcuber and violinist.
 
