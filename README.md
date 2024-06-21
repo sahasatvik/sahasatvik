@@ -1,6 +1,6 @@
 ### Hey there!
 
-I'm a fifth year graduate student at IISER Kolkata, writing my Master's Thesis in Mathematics and Statistics.
+I'm a newly admitted graduate student in the PhD Program at the Department of Statistics, Columbia University.
 I'm still learning basic web design as well as programming with Python, C, and Java.
 I'm also an amateur chess player, speedcuber and violinist.
 
